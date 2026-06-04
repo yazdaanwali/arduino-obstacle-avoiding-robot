@@ -144,7 +144,7 @@ Through this project, I learned:
 
 ## Author
 
-**Yazdaan Khan**
+**Mohammad Yazdaan  Wali Khan**
 
 B.Tech Electronics and Communication Engineering (ECE)
 
