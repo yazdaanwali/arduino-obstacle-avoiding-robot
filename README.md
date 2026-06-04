@@ -10,8 +10,7 @@ The project was built during the first year of B.Tech Electronics and Communicat
 
 ## Project Image
 
-(Add your robot image here after uploading it to the repository)
-
+![Obstacle Avoiding Robot](robot.jpg.png)
 ---
 
 ## Features
