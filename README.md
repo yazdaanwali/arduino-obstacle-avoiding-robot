@@ -155,6 +155,6 @@ Interests:
 * IoT
 * Automation
 * VLSI
-  ## Circuit Diagram
+
 
 
